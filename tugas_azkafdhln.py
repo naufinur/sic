@@ -1,1 +1,1 @@
-print("Mabar valo add zsxam11#9162")
+print("Mabar valo")
